@@ -4,6 +4,12 @@ this is an experimental repo which uses `wasm-bindgen` to construct a Rust FFI w
 
 it is quite prototype-y at this stage, and its feature-completeness is largely driven by NH concerns around specific widgets/hApps we want to build. it should not be considered solid, and maintainership is dependent on NH engineering priorities.
 
+## 🛑 note about abandonment 🛑
+
+this repo is abandoned. Neighbourhoods is moving ahead with a different path, more in line with standard Holochain practice (Rust only in Holochain, Javascript for frontends).
+
+I’m leaving this here for historical interest.
+
 ## how to use this repo
 
 from a separate repo, in which you wish to use this JS/Rust shim:
